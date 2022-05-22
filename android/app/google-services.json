@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473880402578",
+    "firebase_url": "https://tunirand-default-rtdb.firebaseio.com",
+    "project_id": "tunirand",
+    "storage_bucket": "tunirand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473880402578:android:8f350f56cd47e61836644b",
+        "android_client_info": {
+          "package_name": "com.example.tuni_rand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473880402578-00sdudnecsqdk8tot3e7c8ut1b34gq5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Fdv1PyJ74rc7ngyUYzFQAP52Rhr7eT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473880402578-00sdudnecsqdk8tot3e7c8ut1b34gq5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
